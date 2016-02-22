@@ -1,5 +1,8 @@
 # ETSII ULL Grado de Informatica
 
+## Esto es una prueba en clase
+Y esta es una segunda prueba como alu
+
 ## Práctica: Conversor en JavaScript de grados Celsius a Farenheit y viceversa
 
 ### Que aprendemos
